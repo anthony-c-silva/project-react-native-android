@@ -20,8 +20,8 @@ export const s = StyleSheet.create({
         fontFamily: fontFamily.regular,
     },
     containerSelected:{
+        borderColor: colors.gray[300],
         backgroundColor: colors.green.base,
-        borderWidth: 0,
     },
     nameSelected:{
         color: colors.gray[100],
